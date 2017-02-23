@@ -3,7 +3,6 @@ Repositorio con el material y las prácticas impartidas en la asignatura Program
 
 ## Notas
 + Las prácticas están implementadas en Java.
-+ Los archivos indicados en los enunciados están en la carpeta 'Material proporcionado'.
 
 ## Autores
 * **Javier Cortés Tejada** - [Javi96](https://github.com/Javi96)
